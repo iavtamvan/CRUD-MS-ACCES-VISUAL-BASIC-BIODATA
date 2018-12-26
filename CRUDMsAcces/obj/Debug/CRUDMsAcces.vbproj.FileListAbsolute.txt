@@ -1,0 +1,12 @@
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\bin\Debug\CRUDMsAcces.exe.config
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\bin\Debug\CRUDMsAcces.exe
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\bin\Debug\CRUDMsAcces.pdb
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\bin\Debug\CRUDMsAcces.xml
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.vbprojAssemblyReference.cache
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.Form1.resources
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.Resources.resources
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.vbproj.GenerateResource.cache
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.vbproj.CoreCompileInputs.cache
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.exe
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.xml
+D:\Projek Apps Desktop\CRUDMsAcces\CRUDMsAcces\CRUDMsAcces\obj\Debug\CRUDMsAcces.pdb
